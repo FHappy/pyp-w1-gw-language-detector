@@ -28,4 +28,30 @@ LANGUAGES = [
     },
     #  include the English language here
     # HINT: https://en.wikipedia.org/wiki/Most_common_words_in_English
+    {
+            'name': 'English',
+            'common_words': [
+                'the', 'be', 'to', 'of', 'and', 'in', 'that', 'have',
+                'it', 'for', 'not', 'on', 'with', 'he', 'as', 'you', 'do',
+                'this', 'but', 'his', 'by', 'from', 'they', 'we', 'say', 'her',
+                'or', 'an', 'will', 'my', 'one', 'all', 'would', 'there', 'their',
+                'what', 'so', 'up', 'out', 'if', 'about', 'work', 'use', 'how', 'now',
+                'look', 'come', 'its', 'which', 'give', 'most', 'here' 'him', 'me'
+            ]
+    }
 ]
+
+     
+    #language_counter =   {'spanish': 244, 'english': 88, 'german': 99 }
+    # max_counter = 0
+    # language = None
+    # for k, v in language_counter:
+    #     if v > max_counter:
+            #max_counter = v
+            # language = k
+   # return language
+   
+   
+   
+   
+   #
